@@ -7,5 +7,29 @@
         "precio": "$200",
         "imagen": "https://redragonla.com/wp-content/uploads/2021/04/K630RGB-PNGHQ-4-1-512x512.png"
       }
+    
+      {
+        "id": 2,
+        "productName": "SHRAPNEL K589RGB",
+        "description": "Un modelo de bajo perfil, compacto y elegante, sin olvidarnos de los detalles que lo hacen un buen periférico gamer.",
+        "precio": "$300",
+        "imagen": "https://redragonla.com/wp-content/uploads/2021/03/K589RGB-SP-PNG-WEB-1-1-512x512.png"
+      }
+
+  {
+        "id": 3,
+        "productName": "DARK AVENGER K568RGB",
+        "description": "El Dark Avenger está construido para ser liviano pero robusto y resistir las exigencias de todo gamer.",
+        "precio": "$100",
+        "imagen": "https://redragonla.com/wp-content/uploads/2020/09/K568_HQ_1-1-512x512.png"
+      }
+
+  {
+        "id": 4,
+        "productName": "DRACONIC WHITE K530RGB-W",
+        "description": "DISEÑO MINIMALISTA, COMPACTO Y EFICAZ. PARA QUIENES BUSCAN UNA ESTÉTICA DISTINTA.",
+        "precio": "$500",
+        "imagen": "https://redragonla.com/wp-content/uploads/2020/08/55-100-138_04-512x512.png"
+      }
     ]
 }
