@@ -1,92 +1,84 @@
 {
   "products": [
 
-    {"teclado":[
-
-      {
-        "id": 1,
-        "productName": "DRAGONBORN K630",
-        "description": "Pequeño, pero temible. El Dragonborn es un teclado mecánico 60%, compacto y súper transportable, con prestaciones óptimas para el juego competitivo de alto nivel: switches Redragon Brown, tecla Fn, bloqueo de tecla de Windows, cable desmontable y la mejor calidad de construcción. Más la debida iluminación RGB, por supuesto.",
-        "precio": "$200",
-        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/896/208/products/k630rgb-pngweb-5-11-b6107d5202764b664b16214811110823-1024-1024.png",
-        "catergoria": "teclado",
-        "promocion": true
-      },
-      {
-        "id": 2,
-        "productName": "SHRAPNEL K589RGB",
-        "description": "Un modelo de bajo perfil, compacto y elegante, sin olvidarnos de los detalles que lo hacen un buen periférico gamer.",
-        "precio": "$300",
-        "imagen": "https://gamerscolombia.com/img/Teclado-Redragon-Shrapnel-K589RGB-Mecnico/img_5430_1_1620776972.png",
-        "catergoria": "teclado",
-        "promocion": true
-      },
   
-      {
-        "id": 3,
-        "productName": "DARK AVENGER K568RGB",
-        "description": "El Dark Avenger está construido para ser liviano pero robusto y resistir las exigencias de todo gamer.",
-        "precio": "$100",
-        "imagen": "https://cdn.shopify.com/s/files/1/0452/0935/4398/products/K568RGB-SP-RED-HQ-PNG-4_600x.png?v=1622007476",
-        "catergoria": "teclado",
-        "promocion": false
-      },
-  
-      {
-        "id": 4,
-        "productName": "DRACONIC WHITE K530RGB",
-        "description": "DISEÑO MINIMALISTA, COMPACTO Y EFICAZ. PARA QUIENES BUSCAN UNA ESTÉTICA DISTINTA.",
-        "precio": "$500",
-        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/565/164/products/k552w-rgb-sp-11-de8a6f425b19ebb2f716145415563849-1024-1024.png",
-        "catergoria": "teclado",
-        "promocion": false
-      }
+    {
+      "id": 1,
+      "productName": "DRAGONBORN K630",
+      "description": "Pequeño, pero temible. El Dragonborn es un teclado mecánico 60%, compacto y súper transportable, con prestaciones óptimas para el juego competitivo de alto nivel: switches Redragon Brown, tecla Fn, bloqueo de tecla de Windows, cable desmontable y la mejor calidad de construcción. Más la debida iluminación RGB, por supuesto.",
+      "precio": "$200",
+      "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/896/208/products/k630rgb-pngweb-5-11-b6107d5202764b664b16214811110823-1024-1024.png",
+      "catergoria": "teclado",
+      "promocion": true
+    },
+    {
+      "id": 2,
+      "productName": "SHRAPNEL K589RGB",
+      "description": "Un modelo de bajo perfil, compacto y elegante, sin olvidarnos de los detalles que lo hacen un buen periférico gamer.",
+      "precio": "$300",
+      "imagen": "https://gamerscolombia.com/img/Teclado-Redragon-Shrapnel-K589RGB-Mecnico/img_5430_1_1620776972.png",
+      "catergoria": "teclado",
+      "promocion": true
+    },
 
-    ]},
-    
-      {"mouse":[
+    {
+      "id": 3,
+      "productName": "DARK AVENGER K568RGB",
+      "description": "El Dark Avenger está construido para ser liviano pero robusto y resistir las exigencias de todo gamer.",
+      "precio": "$100",
+      "imagen": "https://cdn.shopify.com/s/files/1/0452/0935/4398/products/K568RGB-SP-RED-HQ-PNG-4_600x.png?v=1622007476",
+      "catergoria": "teclado",
+      "promocion": false
+    },
 
-        {
-          "id": 5,
-          "productName": "IMPACT M908",
-          "description": "UN ESPECIALISTA. El Impact es un ratón gamer que rinde perfectamente bien en cualquier tipo de juegos, pero está optimizado para ser u especialista en MOBA y MMORPG. Sus doce botones laterales, por ejemplo, o su apoyo completo, con descanso para los dedos meñique y anular, le permiten destacarse y sobresalir en esos géneros.",
-          "precio": "$350",
-          "imagen": "https://www.gamerscolombia.com/img/Mouse-Redragon-Impact-M908-MOBA-MMORPG/img_5377__1611775256.png",
-          "catergoria": "mouse",
-          "promocion": true
-        },
-    
-        {
-          "id": 6,
-          "productName": "COBRA FPS M711-FPS",
-          "description": "¿Lo tuyo son los juegos FPS? Llegaste al lugar indicado. El Cobra FPS tiene switches ópticos y un sensor magnífico, digno de un verdadero depredador. Además cuenta con cable mallado de 1,8 m, iluminación RGB Chroma y 8 botones programables.",
-          "precio": "$200",
-          "imagen": "https://images.jumpseller.com/store/tienda-gamer-medellin/9591564/M711-3.png?1618474735",
-          "catergoria": "mouse",
-          "promocion": false
-        },
-    
-        {
-          "id": 7,
-          "productName": "STORM ELITE M988",
-          "description": "Más ágil, más rápido y más preciso que los demás, el Storm Elite está concebido para ser el mejor y lo consigue. ¿Cómo? El diseño de panal, el sensor óptico Pixart 3389, el cable de Paracord, los switches Huano para 20 millones de clics, la iluminación dinámica RGB Chroma… Así.",
-          "precio": "$150",
-          "imagen": "https://team2soluciones.com/wp-content/uploads/2021/01/200805-redragon-M988-STORM-ELITE-3-1-1200x1200.png",
-          "catergoria": "mouse",
-          "promocion": true
-        },
-    
-        {
-          "id": 8,
-          "productName": "INVADER M719",
-          "description": "Nadie juega para perder. En la gama de juegos que va de los shooters en primera persona a los MOBA —la gama donde la velocidad y la precisión del ratón importan—, el Invader es un competidor muy sólido: 8 botones, botón de burst-fire, 100 a 10.000 DPI, sensor óptico Pixart 3325; prestaciones excelentes. Además, ¡mírenlo! Es muy bello.",
-          "precio": "$85",
-          "imagen": "https://www.gamerscolombia.com/img/Mouse%20Gamer%20Redragon%20Invader%20M719/img_174__1589236489.png",
-          "catergoria": "mouse",
-          "promocion": false
-        }
+    {
+      "id": 4,
+      "productName": "DRACONIC WHITE K530RGB",
+      "description": "DISEÑO MINIMALISTA, COMPACTO Y EFICAZ. PARA QUIENES BUSCAN UNA ESTÉTICA DISTINTA.",
+      "precio": "$500",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/565/164/products/k552w-rgb-sp-11-de8a6f425b19ebb2f716145415563849-1024-1024.png",
+      "catergoria": "teclado",
+      "promocion": false
+    },
 
-      ]}
-    
+    {
+      "id": 5,
+      "productName": "IMPACT M908",
+      "description": "UN ESPECIALISTA. El Impact es un ratón gamer que rinde perfectamente bien en cualquier tipo de juegos, pero está optimizado para ser u especialista en MOBA y MMORPG. Sus doce botones laterales, por ejemplo, o su apoyo completo, con descanso para los dedos meñique y anular, le permiten destacarse y sobresalir en esos géneros.",
+      "precio": "$350",
+      "imagen": "https://www.gamerscolombia.com/img/Mouse-Redragon-Impact-M908-MOBA-MMORPG/img_5377__1611775256.png",
+      "catergoria": "mouse",
+      "promocion": true
+    },
+
+    {
+      "id": 6,
+      "productName": "COBRA FPS M711-FPS",
+      "description": "¿Lo tuyo son los juegos FPS? Llegaste al lugar indicado. El Cobra FPS tiene switches ópticos y un sensor magnífico, digno de un verdadero depredador. Además cuenta con cable mallado de 1,8 m, iluminación RGB Chroma y 8 botones programables.",
+      "precio": "$200",
+      "imagen": "https://images.jumpseller.com/store/tienda-gamer-medellin/9591564/M711-3.png?1618474735",
+      "catergoria": "mouse",
+      "promocion": false
+    },
+
+    {
+      "id": 7,
+      "productName": "STORM ELITE M988",
+      "description": "Más ágil, más rápido y más preciso que los demás, el Storm Elite está concebido para ser el mejor y lo consigue. ¿Cómo? El diseño de panal, el sensor óptico Pixart 3389, el cable de Paracord, los switches Huano para 20 millones de clics, la iluminación dinámica RGB Chroma… Así.",
+      "precio": "$150",
+      "imagen": "https://team2soluciones.com/wp-content/uploads/2021/01/200805-redragon-M988-STORM-ELITE-3-1-1200x1200.png",
+      "catergoria": "mouse",
+      "promocion": true
+    },
+
+    {
+      "id": 8,
+      "productName": "INVADER M719",
+      "description": "Nadie juega para perder. En la gama de juegos que va de los shooters en primera persona a los MOBA —la gama donde la velocidad y la precisión del ratón importan—, el Invader es un competidor muy sólido: 8 botones, botón de burst-fire, 100 a 10.000 DPI, sensor óptico Pixart 3325; prestaciones excelentes. Además, ¡mírenlo! Es muy bello.",
+      "precio": "$85",
+      "imagen": "https://www.gamerscolombia.com/img/Mouse%20Gamer%20Redragon%20Invader%20M719/img_174__1589236489.png",
+      "catergoria": "mouse",
+      "promocion": false
+    }
   ]
 }
